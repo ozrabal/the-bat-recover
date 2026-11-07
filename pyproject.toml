@@ -3,7 +3,7 @@ requires = ["setuptools>=61"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "the-bat-revover"
+name = "the-bat-recover"
 version = "0.1.0"
 description = "Recover legacy The Bat! TBK mail backups into searchable local HTML, EML and mbox"
 readme = "README.md"

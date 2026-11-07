@@ -247,7 +247,7 @@ mbox/ contains mailboxes grouped by account and folder for importing into a mail
 original-mailboxes/ preserves the decompressed TBB files.
 address-book.ldif contains the recovered address book.
 recovery-report.json records the archive SHA-256 and extraction counts.
-Generated with the-bat-revover (the-bat-recover CLI).
+Generated with the-bat-recover (the-bat-recover CLI).
 
 All {blocks} recovered zlib streams passed their checksum and declared size checks.
 Every extracted TBB file passed size checks and every message was read by its stored length,

@@ -1,12 +1,11 @@
-# the-bat-revover
+# the-bat-recover
 
 Recover old **The Bat! `.tbk` email backups** into a searchable HTML email list,
 individual `.eml` messages, attachments, and importable `.mbox` mailboxes.
 Everything runs locally using Python's standard library. The original archive
 is read only.
 
-The repository name is `the-bat-revover`; the installed command is
-`the-bat-recover`.
+The repository and installed command are both named `the-bat-recover`.
 
 ## Quick start
 
