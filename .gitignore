@@ -1,0 +1,19 @@
+# Recovered correspondence and source backups stay out of version control.
+/recovered/
+*.tbk
+*.TBK
+*.tbb
+*.TBB
+*.tbi
+*.TBI
+*.eml
+*.mbox
+*.ldif
+.bat-recover-*/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+build/
+dist/
+.DS_Store

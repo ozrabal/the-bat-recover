@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "the-bat-revover"
+version = "0.1.0"
+description = "Recover legacy The Bat! TBK mail backups into searchable local HTML, EML and mbox"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+the-bat-recover = "the_bat_recover:main"
+
+[tool.setuptools]
+py-modules = ["the_bat_recover"]
