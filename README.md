@@ -93,8 +93,7 @@ separate attachment file is created.
 ## Compatibility and limitations
 
 This is a parser for the **observed legacy TBK format**, developed from a 2004
-backup. That archive yielded 978 emails from 9 accounts and 163 decoded
-attachments. This is not a guarantee of support for all The Bat! versions.
+backup. This is not a guarantee of support for all The Bat! versions.
 Encrypted/password-protected backups and other TBK variants are unsupported.
 The application The Bat! is not required.
 
